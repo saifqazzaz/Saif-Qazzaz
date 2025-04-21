@@ -91,16 +91,3 @@
   </div>
 </body>
 </html>
-
-
-Your custom blog page has been designed! It features a clean layout, modern typography, and structured sections that showcase your bio professionally. You can now upload this HTML file to your personal website or hosting platform.
-
-Would you like me to help you:
-
-Add images or logos?
-
-Make it mobile-responsive?
-
-Turn it into a live website (e.g., using GitHub Pages or Netlify)? Let me know how you'd like to proceed!
-
-
